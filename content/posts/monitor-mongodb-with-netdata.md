@@ -76,7 +76,7 @@ mongodb: yes
 
 ## 运行效果
 
-![](C:\Users\PCL\Documents\GitHub\blog-src\content\posts\images\Snipaste_2019-12-17_20-38-00.png)
+![](./images/Snipaste_2019-12-17_20-38-00.png)
 
 ## 问题排查
 

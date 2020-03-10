@@ -115,3 +115,7 @@ URL 结构为 `{connection}{stream}`
 
 'rtmp://example.com/mylive&666666'
 ```
+
+## 参考
++ https://blog.csdn.net/retank/article/details/102726000
++ https://blog.csdn.net/SKY_Lake/article/details/98658909
